@@ -1,2 +1,2 @@
 # CourseraWeb
-Coursera web 
+Web test for a course
